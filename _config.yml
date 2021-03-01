@@ -28,7 +28,7 @@ twitter_username: pulsewidth
 github_username:  pulsewidth
 
 # Build settings
-theme: jekyll-theme-hacker
+theme: Minima
 plugins:
   - jekyll-feed
 
