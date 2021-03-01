@@ -29,7 +29,8 @@ github_username:  pulsewidth
 
 # Build settings
 theme: Minima
-skin: dark
+minima:
+  skin: dark
 plugins:
   - jekyll-feed
 
