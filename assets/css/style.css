@@ -1,0 +1,6 @@
+---
+---
+
+@import "";
+@import "minima/skins/{{ site.minima.skin | default: 'dark' }}";
+@import "minima/initialize";
