@@ -23,7 +23,7 @@ email: ernst@pulsewidth.ca
 description: >- # this means to ignore newlines until "baseurl:"
   sound art/drone/noise/electronics/radio
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://pulsewidth.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pulsewidth
 github_username:  pulsewidth
 
