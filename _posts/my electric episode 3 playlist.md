@@ -4,9 +4,9 @@ title:  "My Electric Playlist 08062017"
 date:   2021-04-07 01:01:19 -0600
 categories: update my-electric-playlists
 ---
-##My Electric Episode 3 Playlist
+## My Electric Episode 3 Playlist
 
-###Hour 1 2100-2200
+### Hour 1 2100-2200
 * Pierre Henry - Coexistence - Andante
 * Syrinx - Journey Tree
 * Martijn Comes/Scant Intone - Remain Silent
@@ -16,7 +16,7 @@ categories: update my-electric-playlists
 * Matt Parker - Blue Panelled HVAC Inside LD5
 * Fern Lodge - Of A Thousand Sorrows
 * 
-###Hour 2 2200-2300
+### Hour 2 2200-2300
 * Kaunsel - Wave Echo Cave
 * Multa Nox - Crux
 * Zov - 8
