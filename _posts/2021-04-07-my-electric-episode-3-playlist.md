@@ -15,7 +15,7 @@ categories: update my-electric-playlists
 * Sound Awakener + Gallery 6 - Welcome To The Acoustic Season
 * Matt Parker - Blue Panelled HVAC Inside LD5
 * Fern Lodge - Of A Thousand Sorrows
-* 
+
 ### Hour 2 2200-2300
 * Kaunsel - Wave Echo Cave
 * Multa Nox - Crux
