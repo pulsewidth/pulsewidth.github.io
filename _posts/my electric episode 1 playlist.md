@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "I'm here now..."
+title:  "My Electric Playlist 07302017"
 date:   2021-03-01 00:20:19 -0600
-categories: my electric playlists
+categories: update my electric playlists
 ---
 ## My Electric Episode 1 Playlist
 
