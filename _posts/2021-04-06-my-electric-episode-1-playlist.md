@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My Electric Playlist 07302017"
+title:  "My Electric Playlist 06302017"
 date:   2021-04-07 00:24:19 -0600
 categories: update my-electric-playlists
 ---
