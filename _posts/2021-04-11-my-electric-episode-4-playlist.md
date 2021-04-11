@@ -1,6 +1,12 @@
+---
+layout: post
+title:  "My Electric Playlist 08132017"
+date:   2021-04-07 01:01:19 -0600
+categories: update my-electric-playlists
+---
 # 2021-04-11-My-Electric-Episode-4-Playlist
-A three-hour episode, as I was filling in for the programme that followed me...
-* Hour 1
+## A three-hour episode, as I was filling in for the programme that followed me...
+### Hour 1
 * Evoker - Infinite Layers of The Abyss
 * The Olm - Confessors
 * Ocra - Vellum
@@ -10,8 +16,8 @@ A three-hour episode, as I was filling in for the programme that followed me...
 * Kaunsel - Junk Ryhthm
 * Unfollow - Play The Wall
 * Psychic Pollution - Helicline
-* 
-* Hour 2
+
+### Hour 2
 * Private Investigators - Prairie technology
 * The Boothman - Artificially Intelligent Government Issue Pts 1 & 2
 * Bong Sample - Main Title
@@ -21,8 +27,8 @@ A three-hour episode, as I was filling in for the programme that followed me...
 * Mehta Youngs - A Winter Hoax
 * Arbee & Bleupulp - Generatif-5
 * Mitchell Akiyama/Martijn Comes - Interrogation remix
-* 
-* Hour 3
+
+### Hour 3
 * Nadja - Only Shallow
 * Silent Servant - Invocation Of Lust
 * Pulsewidth - Mixed Signals
