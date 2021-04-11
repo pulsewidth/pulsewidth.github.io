@@ -5,7 +5,9 @@ title:  "My Electric Playlist 07282017"
 date:   2021-04-11 17:45:19 -0600
 categories: update my-electric-playlists
 —-
-## Hour 1
+
+My Electric Episode 5 Playlist
+### Hour 1
 * Wendy Carlos - Timesteps
 * Suzanne Ciani - Lixiviation
 * Castle If - Guzmania Lingulata
@@ -13,7 +15,7 @@ categories: update my-electric-playlists
 * The Olm - Ghost of Jupiter
 * Sarah Davachi - Ghosts and All
 
-## Hour 2
+### Hour 2
 * Ylang Ylang - Le Ventre Du Coquillage
 * Echo Beach - From His Lips, Parted Slightly The Force Of Life 
 * Anju Singh - Dethroned
