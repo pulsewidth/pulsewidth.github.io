@@ -30,9 +30,9 @@ twitter_username: pulsewidth
 github_username:  pulsewidth
 
 # Build settings
-theme: Minima
+# theme: Minima
 # remote_theme: huangyz0918/moving
-# remote_theme: pages-themes/midnight
+remote_theme: pages-themes/midnight
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
