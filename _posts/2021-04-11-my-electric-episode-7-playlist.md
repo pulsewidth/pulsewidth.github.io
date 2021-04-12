@@ -1,10 +1,11 @@
-—---
+---
 layout: post
 title:  "My Electric Playlist 08112017"
 date:   2021-04-11 18:11:19 -0600
 categories: update my-electric-playlists
-—---
-## My Electric Episode 7 Playlist
+---
+
+# My Electric Episode 7 Playlist
 ### Hour 1
 * BEF - Wichita Lineman
 * Form - Sort(re)
