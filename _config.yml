@@ -31,7 +31,7 @@ github_username:  pulsewidth
 
 # Build settings
 # theme: Minima
-theme: jekyll-theme-midnight
+theme: Midnight
 # remote_theme: huangyz0918/moving
 # remote_theme: pages-themes/midnight
 plugins:
