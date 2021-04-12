@@ -4,10 +4,3 @@
 
 layout: home
 ---
-# <ul>
-#  {% for post in site.posts %}
-#    <li>
-#      <a href="/github-pages-with-jekyll{{ _posts/post.url }}">{{ _posts/post.title }}</a>
-#    </li>
-#  {% endfor %}
-# </ul>
