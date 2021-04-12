@@ -32,7 +32,7 @@ github_username:  pulsewidth
 # Build settings
 # theme: Minima
 # remote_theme: huangyz0918/moving
-remote_theme: mattgraham/midnight
+remote_theme: pages-themes/midnight
 plugins:
   - jekyll-feed
 
