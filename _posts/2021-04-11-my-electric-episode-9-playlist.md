@@ -6,7 +6,7 @@ categories: update my-electric-playlists
 ---
 
 # My Electric Episode 9 Playlist
-### Hour 1
+
 ### Hour 1
 * Civvie - Jetsam
 * Jim O' Rourke - Eppis
