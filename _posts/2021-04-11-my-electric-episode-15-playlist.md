@@ -17,6 +17,7 @@ categories: update my-electric-playlists
 * Sandro Perri - Dreaming(Is Real)
 
 ### Hour 2
+* Portishead - SOS
 * Beliefs - Divided Youth (Only Lovers)
 * Fresh Snow - I Am Smitten With Your Wrath
 * Doomsquad - Farmer's Almanac
