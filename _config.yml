@@ -33,7 +33,8 @@ github_username:  pulsewidth
 # theme: Minima
 # theme: midnight
 # remote_theme: huangyz0918/moving
-remote_theme: pages-themes/midnight
+# remote_theme: pages-themes/midnight
+remote_theme: benbalter/retlab
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
