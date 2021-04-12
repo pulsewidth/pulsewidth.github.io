@@ -30,8 +30,8 @@ twitter_username: pulsewidth
 github_username:  pulsewidth
 
 # Build settings
-# theme: Minima
-remote_theme: pages-themes/midnight
+theme: Minima
+# remote_theme: pages-themes/midnight
 plugins:
   - jekyll-feed
 
