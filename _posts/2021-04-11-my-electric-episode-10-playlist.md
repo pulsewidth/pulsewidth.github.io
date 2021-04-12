@@ -10,7 +10,7 @@ categories: update my-electric-playlists
 * vitaminsforyou - Churchill
 * The Relaxation Company - Close The Curtains And Drink
 * Gil Melle - Desert Trip
-- Jack Hertz - Contamination
+* Jack Hertz - Contamination
 * Direwires - Documented Glance
 * Desormais - To Say before Going To Sleep
 * Dick Richards - Kid
