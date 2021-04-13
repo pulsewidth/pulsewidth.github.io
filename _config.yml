@@ -30,7 +30,7 @@ twitter_username: pulsewidth
 github_username:  pulsewidth
 
 # Build settings
-theme: jekyll-theme-midnight
+theme: jekyll-theme-hacker
 # theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
