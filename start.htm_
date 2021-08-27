@@ -12,7 +12,7 @@
     h1 {font-weight:bold; font-size: 1em; margin-top:2em;}
     hr {margin-bottom:3em; clear: both; visibility: hidden;}
 		a {color:#ff9966;}
-		a:hover {color:#ccc;background:#ff9966}
+		a:hover {color:#4c4c4c;background:#ff9966}
     img {max-width:100%;}</style>
 </head>
 <body>
