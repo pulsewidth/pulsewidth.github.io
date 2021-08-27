@@ -1,9 +1,4 @@
----
-layout: post
-title:  "My Electric Playlist 06302017"
-date:   2021-04-07 00:24:19 -0600
-categories: update my-electric-playlists
----
+
 ## My Electric Episode 1 Playlist
 
 ### Hour 1 2100-2200
