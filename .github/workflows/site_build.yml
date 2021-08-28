@@ -2,6 +2,7 @@ name: Site Build
 on: push
 
 jobs:
+  run:
   linux:
     name: site build
     runs-on: ubuntu-latest
