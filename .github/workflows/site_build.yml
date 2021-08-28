@@ -4,9 +4,8 @@ on: push
 jobs:
   linux:
     name: site build
-runs-on: ubuntu-latest
-steps:
-- uses: actions/checkout@v1
-- name: script
-run: site.sh
-shell: bash
+    runs-on: ubuntu-latest
+      steps:
+        uses: actions/checkout@v1
+        run: site.sh
+        shell: bash
