@@ -2,9 +2,9 @@ name: Site Build
 on: push
 
 jobs:
-  run:
-    name: site build
-    runs-on: ubuntu-latest
-    steps:
-      uses: actions/checkout@v1
-      run: site.sh
+  run: site.sh
+#    name: site build
+#    runs-on: ubuntu-latest
+#    steps:
+#      uses: actions/checkout@v1
+#      run: site.sh
