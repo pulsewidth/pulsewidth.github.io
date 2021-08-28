@@ -1,8 +1,9 @@
 name: Site Build
 on: push
 
-jobs: site build
-run:
+jobs:
+  linux:
+    name: site build
 runs-on: ubuntu-latest
 steps:
 - uses: actions/checkout@v1
