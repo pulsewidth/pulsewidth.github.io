@@ -28,8 +28,9 @@ echo ">> build log, rss"
 list=$(ls -r ./*/*.md)
 
 log="log"
-
+radio="me_log"
 cat start.htm_ > ${log}.html
+cat start.htm_ > ${radio}.html
 cat start_rss.xml_ > rss.xml
 
 n=1
@@ -52,9 +53,14 @@ for file in $list ; do
   if [ $((n % 19)) == 0 ]; then
     echo "--- page ---"
     echo "<br/><p><a href=/${log}n.html>[further]</a></p>" >> ${log}.html
+    echo "<br/><p><a href=/${radio}n.html>[further]</a></p>" >> ${radio}.html
+
     cat end.htm_ >> ${log}.html
+    cat end.htm_ >> ${radio}.html
     log=$log"n"
+    radio=$radio"n"
     cat start.htm_ > ${log}.html
+    cat start.htm_ > ${radio}.html
   fi
   ((n=n+1))
 
@@ -62,6 +68,9 @@ for file in $list ; do
   echo "<p><a href=${target}>${name}</a></p>" >> ${log}.html
   cmark ${file} >> ${log}.html
   echo "<br/>" >> ${log}.html
+  echo "<p><a href=${target}>${name}</a></p>" >> ${radio}.html
+  cmark ${file} >> ${radio}.html
+  echo "<br/>" >> ${radio}.html
 
   # append to rss
   echo "<item>" >> rss.xml
@@ -78,6 +87,7 @@ done
 
 
 cat end.htm_ >> ${log}.html
+cat end.htm_ >> ${radio}.html
 cat end_rss.xml_ >> rss.xml
 
 # generate gmi
