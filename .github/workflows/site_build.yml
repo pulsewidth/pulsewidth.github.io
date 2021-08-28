@@ -1,7 +1,7 @@
 name: Site Build
 on: push
 
-jobs:
+jobs: site build
 run:
 runs-on: ubuntu-latest
 steps:
