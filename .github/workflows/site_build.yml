@@ -2,7 +2,7 @@ name: Site Build
 on: push
 
 jobs:
-  run: | ./site.sh
+  run: bash site.sh
 #    name: site build
 #    runs-on: ubuntu-latest
 #    steps:
