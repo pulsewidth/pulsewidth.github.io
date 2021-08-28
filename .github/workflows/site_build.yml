@@ -6,6 +6,6 @@ jobs:
     name: site build
     runs-on: ubuntu-latest
     steps:
-      uses: actions/checkout@v1
-      run: site.sh
-      shell: bash
+      - uses: actions/checkout@v1
+      - run: site.sh
+      - shell: bash
