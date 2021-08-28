@@ -14,7 +14,7 @@
     img {max-width:100%;}</style>
 </head>
 <body>
-<div style="margin:20px">
+<div style="margin:40px">
     <p><a href="/index.html">here</a> <a href="/list.html">list</a> <a href="/log.html">log</a> <a href="/about.html">about</a></p><br>
     <p>A new place to say things and to show things.Stay tuned...</p>
     <hr>
