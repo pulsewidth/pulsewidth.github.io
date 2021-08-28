@@ -1,3 +1,6 @@
-<p>Lately I've been working with a patch in a small modular case. The results have been  varied, but ultimately good.</p>
-<p>Tonight I revisited the use of the PiezoThings with the old zither with great results.
-I might have to bring this gear along on the Eastern Campaign(a gig in Brandon MB in September, Yorkton SK in October, and Guelph ON in November)</p>
+###### an observation
+
+lately i've been working with a patch in a small modular case. the results have been  varied, but ultimately good.
+
+I recently revisited the use of the piezothings with the old zither with great results.
+I might have to bring this gear along on the eastern campaign(a gig in brandon mb in september, yorkton sk in october, and guelph on in november)</p>
