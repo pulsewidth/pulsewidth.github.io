@@ -6,4 +6,4 @@ Please stay tuned...
 
 *drone better...(ivan vanko)*
 
-![site banner](images/site_img1.jpg)
+![site banner](images/high/site_img1.jpg)
