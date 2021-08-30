@@ -26,12 +26,10 @@ done
 echo ">> build log, rss"
 
 list=$(ls -r ./log/*.md)
-list2=$(ls -r ./radio/*.md)
 
 log="log"
-radio="radio"
+
 cat start.htm_ > ${log}.html
-cat start.htm_ > ${radio}.html
 cat start_rss.xml_ > rss.xml
 
 n=1
@@ -85,6 +83,13 @@ for file in $list ; do
   echo "<pubDate>$date</pubDate>" >> rss.xml
   echo "</item>" >> rss.xml
 done
+
+list2=$(ls -r ./radio/*.md)
+
+radio="radio"
+
+cat start.htm_ > ${radio}.html
+cat start_rss.xml_ > rss.xml
 
 n=1
 
