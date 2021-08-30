@@ -142,7 +142,7 @@ done
 
 # generate gmi
 
-list=$(ls -r ./log/image/*.jpg)
+list=$(ls -r log/image/high/*.jpg)
 cat index.gmi_ > index.gmi
 for file in $list ; do
   file=${file:2}
