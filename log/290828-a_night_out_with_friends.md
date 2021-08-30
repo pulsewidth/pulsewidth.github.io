@@ -5,3 +5,4 @@ we call ourselves Bell Dreams
 
 the event was held in and around regina's warehouse district. we were situated at site 8,
 acme welding, in front of their metal storage rack.
+![site banner](log/image/high/acme_rack.jpg)
