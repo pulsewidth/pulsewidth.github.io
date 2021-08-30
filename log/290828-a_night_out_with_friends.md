@@ -1,4 +1,3 @@
-#### a night out with friends
 
 last night i performed at nuit blanche regina with my friends Jeff Morton and Edie Skeard.
 we call ourselves Bell Dreams
