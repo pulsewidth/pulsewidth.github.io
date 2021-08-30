@@ -1,9 +1,0 @@
-name: Site Build
-on: push
-
-jobs:
-  steps:
-    runs-on: ubuntu-latest
-    uses: actions/checkout@v1
-      run:|
-      site.sh
