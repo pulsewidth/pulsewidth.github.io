@@ -7,4 +7,4 @@ acme welding, in front of their metal storage rack.
 
 this was my first live outing since march 2020!
 
-![acmerack](log/image/210830.jpg)
+![acmerack](log/image/210830v2.jpg)
