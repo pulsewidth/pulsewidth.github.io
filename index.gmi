@@ -1,4 +1,4 @@
-=> log/image/high/210830-2.jpg high/210830-2
+=> log/image/high/zither.jpg high/zither
 => log/image/high/210829.jpg high/210829
 => log/image/high/210829.jpg high/210829
 => log/image/py.jpg py
