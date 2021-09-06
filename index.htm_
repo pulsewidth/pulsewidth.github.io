@@ -9,8 +9,8 @@
 code {font-size: 1.6em; color:#999;}
 h1 {font-weight:bold; font-size: 1em; margin-top:2em;}
 hr {margin-bottom:3em; clear: both; visibility: hidden;}
-a {color:#8E7C70;}
-a:hover {color:#A2A3A7;}
+a {color:#FF9966;}
+a:hover {color:#49474A;}
 img {max-width:100%;}</style>
 </head>
 <body>
