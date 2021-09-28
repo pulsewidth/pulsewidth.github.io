@@ -83,62 +83,6 @@ done
 cat end.htm_ >> ${log}.html
 cat end_rss.xml_ >> rss.xml
 
-# build radio, rss
-echo ">> build radio, rss"
-list2=$(ls -r ./radio/*.md)
-
-radio="radio"
-
-cat start.htm_ > ${radio}.html
-cat start_rss.xml_ > rss.xml
-
-n=1
-
-for file in $list2 ; do
-  file=${file:2}
-  subfile=${file%.*}
-  folder=${subfile%\/*}
-  name=${subfile#*\/}
-  echo "$folder / $name"
-
-  # convert md to html
-  target=${file%.*}.html
-  cat start.htm_ > ${target}
-  echo "<p>${name}</p>" >> ${target}
-  cmark ${file} >> ${target}
-  cat end.htm_ >> ${target}
-
-  # paginate
-  if [ $((n % 19)) == 0 ]; then
-    echo "--- page ---"
-    echo "<br/><p><a href=/${radio}n.html>[further]</a></p>" >> ${radio}.html
-    cat end.htm_ >> ${radio}.html
-    radio=$radio"n"
-    cat start.htm_ > ${radio}.html
-  fi
-  ((n=n+1))
-
-  # append to index
-  echo "<p><a href=${target}>${name}</a></p>" >> ${radio}.html
-  cmark ${file} >> ${radio}.html
-  echo "<br/>" >> ${radio}.html
-
-  # append to rss
-  echo "<item>" >> rss.xml
-  echo "<title>${folder} / ${name}</title>" >> rss.xml
-  echo "<link>https://pulsewidth.github.io/${folder}/${name}.html</link>" >> rss.xml
-  echo "<guid>https://pulsewidth.github.io/${folder}/${name}.html</guid>" >> rss.xml
-  echo "<description><![CDATA[" >> rss.xml
-  cmark ${file} >> rss.xml
-  echo "]]></description>" >> rss.xml
-  date=$(date -r $file "+%a, %d %b %Y 11:11:11 EST")
-  echo "<pubDate>$date</pubDate>" >> rss.xml
-  echo "</item>" >> rss.xml
-done
-
-
-  cat end.htm_ >> ${radio}.html
-  cat end_rss.xml_ >> rss.xml
 
 # generate gmi
 
