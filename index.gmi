@@ -2,5 +2,7 @@
 => log/image/high/210829.jpg high/210829
 => log/image/high/210829.jpg high/210829
 => log/image/py.jpg py
+=> log/image/high/2022-05-25.jpg high/2022-05-25
+=> log/image/.38.54.jpg .38.54
 => log/image/high/2021-08-25.jpg high/2021-08-25
 => log/image/.58.33.jpg .58.33
