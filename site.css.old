@@ -1,8 +1,8 @@
 
     body {background-color:#A2A3A7; max-width:800px; color:#49474A;
-      font-family: 'Roboto Mono', monospace; font-size: 1.8em;}
-    code {font-size: 2.4em; color:#999;}
-    h1 {font-weight:bold; font-size: 2.6em; margin-top:3em;}
+      font-family: 'Roboto Mono', monospace; font-size: 1.2em;}
+    code {font-size: 1.8em; color:#999;}
+    h1 {font-weight:bold; font-size: 2em; margin-top:3em;}
     hr {margin-bottom:3em; clear: both; visibility: hidden;}
 		a {color:#8E7C70;}
 		a:hover {color:#A2A3A7;}
