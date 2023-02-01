@@ -10,4 +10,4 @@ elsewhere
 
 [instagram](https://www.instagram.com/pulsewidth_/)
 
-[mastodon](https://mstdn.ca/@pulsewidth) 
+[mastodon](https://mstdn.ca/@pulsewidth)
