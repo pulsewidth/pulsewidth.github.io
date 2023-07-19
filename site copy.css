@@ -1,9 +1,9 @@
 
-    body {background-color:#2e3440; max-width:800px; color:#d8dee9;
+    body {background-color:#A2A3A7; max-width:800px; color:#49474A;
       font-family: 'Roboto Mono', monospace; font-size: 1.8em;}
     code {font-size: 2.4em; color:#999;}
     h1 {font-weight:bold; font-size: 2.6em; margin-top:3em;}
     hr {margin-bottom:3em; clear: both; visibility: hidden;}
-		a {color:#5E81AC;}
-		a:hover {color:#3b4252;}
+		a {color:#8E7C70;}
+		a:hover {color:#A2A3A7;}
     img {max-width:100%;}
