@@ -1,0 +1,117 @@
+/*
+ *
+  Example Style Sheet for Pawfaliki
+ *
+ */
+
+/* page title - span.wiki_header */
+span.wiki_header
+{
+	font-size: 24px;
+	font-weight: bold;
+	cursor:crosshair;
+}
+
+/* error messages - p.error */
+p.error
+{
+	font-weight: bold;
+	text-align: center;
+	padding: 3px;
+	border-style: none;
+	border-width: 1px;
+	color: red;
+}
+
+/* page container */
+table.wiki_body_container
+{
+	border-style: none;
+  padding: 0px;
+  padding-left: 2px;
+  padding-right: 2px;
+  cursor:crosshair;
+}
+
+/* page contents */
+span.wiki_body
+{
+}
+
+/* general bits & bobs */
+body
+{
+	background-color: #cccccc;
+	color: #6c6c6c;
+	font-family: arial, monospace;
+	font-size: 12px;
+	margin-left: 6px;
+	margin-right: 18px;
+	cursor:crosshair;
+}
+
+hr
+{
+	border-style: none;
+	border-top-style: solid;
+	border-width: 1px;
+	border-color: #6c6c6c;
+	cursor:crosshair;
+}
+
+a
+{
+	text-decoration: none;
+	color: #007ab9;
+	cursor:crosshair;
+}
+
+a:hover
+{
+	color: #cccccc;
+	background: #007ab9;
+	cursor:crosshair;
+}
+
+a:active
+{
+	color: #007ab9;
+	cursor:crosshair;
+}
+
+input
+{
+	font-family: arial, monospace;
+	font-size: 12px;
+	color: #007ab9;
+	background: #cccccc;
+	border-style: none;
+	padding: 0px;
+	cursor: crosshair;
+}
+
+input:hover
+{
+	color: #cccccc;
+	background: #007ab9;
+	cursor:crosshair;
+}
+
+input:active
+{
+	color: #007ab9;
+	cursor:crosshair;
+}
+
+textarea
+{
+	font-family: arial, monospace;
+	font-size: 12px;
+	color: #6c6c6c;
+	background: #cccccc;
+	padding: 4px;
+	border-style: none;
+	height: 320px;
+	width: 99%;
+	cursor:crosshair;
+}
