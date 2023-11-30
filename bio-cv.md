@@ -4,14 +4,14 @@
 
 e. dulanowsky is Ernie Dulanowsky, an electronic sound composer,performer and erstwhile field recordist/phonographer using homemade and commercial non-keyboard electronics to create ambient drone and noise pieces. His work is informed by the sounds found at the intersection of office building ambience and broken media transmissions. Some of his compositions can be found at
 
-[bandcamp]https://pulsewidth.bandcamp.com
-[soundcloud]https://soundcloud.com/ernst-pulsewidth
+[bandcamp](https://pulsewidth.bandcamp.com)
+[soundcloud](https://soundcloud.com/ernst-pulsewidth)
 
 ### Links to Social Media
 
-[Mastodon]https://mstdn.ca/@pulsewidth
-[Instagram]https://www.instagram.com/pulsewidth_/
-[Blog]https://pulsewidth.github.io
+[Mastodon](https://mstdn.ca/@pulsewidth)
+[Instagram](https://www.instagram.com/pulsewidth_/)
+[Blog](https://pulsewidth.github.io)
 
 ## Selected CV
 **October 2023** Performance as member of Bell Dreams, an ambient experimental trio with Edie Skeard and Jeff Morton, at Sounds Like 11 in Saskatoon SK
